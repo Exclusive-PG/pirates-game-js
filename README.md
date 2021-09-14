@@ -1,1 +1,1 @@
-# pirates-game-js
+# Pirates Empires game-js
